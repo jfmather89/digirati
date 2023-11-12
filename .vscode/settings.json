@@ -1,5 +1,0 @@
-{
-    "pylint.args": [
-        "\"--max-line-length=80\""
-    ]
-}
